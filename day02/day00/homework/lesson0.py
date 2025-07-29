@@ -1,6 +1,5 @@
 print("mate tsetskhladze")
 from turtle import *
-
 #we want to paint a home
 
 #stap 1: drow a square
